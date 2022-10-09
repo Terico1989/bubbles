@@ -1,0 +1,32 @@
+<?xml version="1.1" ?>
+<settings>
+    <global>
+        <faux_party_chat>false</faux_party_chat>
+        <logcolor>121</logcolor>
+        <party_hud>
+            <enabled>true</enabled>
+            <show_dist>true</show_dist>
+            <text_settings>
+                <bg>
+                    <alpha>150</alpha>
+                </bg>
+                <flags>
+                    <bold>true</bold>
+                    <right>true</right>
+                </flags>
+                <pos>
+                    <x>-189</x>
+                    <y>45</y>
+                </pos>
+                <text>
+                    <font>Courier New</font>
+                    <size>12</size>
+                    <stroke>
+                        <width>1</width>
+                    </stroke>
+                </text>
+            </text_settings>
+        </party_hud>
+        <update_interval>0.5</update_interval>
+    </global>
+</settings>
